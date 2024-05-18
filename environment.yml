@@ -9,6 +9,3 @@ dependencies:
   - matplotlib
   - ghapi
   - pandas-profiling
-#   - pip  # if you need more packages installed from pip 
-#   - pip:
-#     - foo

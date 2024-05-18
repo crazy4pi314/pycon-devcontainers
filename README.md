@@ -1,12 +1,16 @@
 # ![PyCon 2024: Eternal sunshine of the spotless development environment](title.png)
 [Schedule](https://us.pycon.org/2024/schedule/presentation/123/) | [Slides](slides.pdf) | [Demo](demo.ipynb) | [Title inspo: Eloisa To Abelard by Alexander Pope](https://gutenberg.org/cache/epub/9413/pg9413-images.html#link2H_4_0051:~:text=Eternal%20sunshine%20of%20the%20spotless%20mind!)
 
+> Try out Dev Containers in Codespaces with this template! [github.com/crazy4pi314/conda-devcontainer-demo](https://github.com/crazy4pi314/conda-devcontainer-demo)
+
 “It says the package is not installed?” is a common refrain when working on software projects, especially in Python. Creating and configuring reproducible environments is a major part of modern software development and has led to the popularity of tools like Docker to specify where and how code runs. Development (Dev) Container are an open specification that extends Docker images to make it easy to configure not only the where the code runs, but also the developer workspace in your preferred editors or toolchains like VS Code, PyCharm, or DevPod. Setting up Dev Containers for your projects can reduce maintainer overhead of OSS projects, bootstrap contributors, and make running events like workshops or sprints go more smoothly.
 
 In this talk, we will briefly cover why setting up container infrastructure can be useful for isolating your project environments and dig into how you can extend that with Dev Containers to configure a complete development experience using VS Code. We will look at two common OSS project situations, onboarding and workshops, to see how workflows for using Dev Containers and other supporting tools make things easier. No container experience required, brief familiarity with VS Code is helpful, but not necessary.
 
-> Try out Dev Containers in Codespaces with this template! [github.com/crazy4pi314/conda-devcontainer-demo](https://github.com/crazy4pi314/conda-devcontainer-demo)
 
+### Learn more about how Microsoft ❤️ Python: [https://aka.ms/Pycon24](https://aka.ms/Pycon24)
+
+--- 
 
 ### Speaker Profile:
 
