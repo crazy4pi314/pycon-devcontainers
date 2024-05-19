@@ -7,6 +7,8 @@
 
 In this talk, we will briefly cover why setting up container infrastructure can be useful for isolating your project environments and dig into how you can extend that with Dev Containers to configure a complete development experience using VS Code. We will look at two common OSS project situations, onboarding and workshops, to see how workflows for using Dev Containers and other supporting tools make things easier. No container experience required, brief familiarity with VS Code is helpful, but not necessary.
 
+Learn more about Dev Containers at [https://containers.dev](https://containers.dev).
+
 
 ### Learn more about how Microsoft ❤️ Python: [https://aka.ms/Pycon24](https://aka.ms/Pycon24)
 
