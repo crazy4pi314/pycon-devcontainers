@@ -1,5 +1,5 @@
 # ![PyCon 2024: Eternal sunshine of the spotless development environment](title.png)
-[Schedule](https://us.pycon.org/2024/schedule/presentation/123/) | [Slides](slides.pdf) | [Demo](demo.ipynb) | [Title inspo: Eloisa To Abelard by Alexander Pope](https://gutenberg.org/cache/epub/9413/pg9413-images.html#link2H_4_0051:~:text=Eternal%20sunshine%20of%20the%20spotless%20mind!)
+[Schedule](https://us.pycon.org/2024/schedule/presentation/123/) | [Slides](slides.pdf) | [Demo](jupyter_repos.ipynb) | [Title inspo: Eloisa To Abelard by Alexander Pope](https://gutenberg.org/cache/epub/9413/pg9413-images.html#link2H_4_0051:~:text=Eternal%20sunshine%20of%20the%20spotless%20mind!)
 
 > Try out Dev Containers in Codespaces with this template! [github.com/crazy4pi314/conda-devcontainer-demo](https://github.com/crazy4pi314/conda-devcontainer-demo)
 
